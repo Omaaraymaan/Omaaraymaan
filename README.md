@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AVR Embedded Software Engineering using C Language 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by E-mail omaaraymaan.23@gmail.com
-- 😄 Pronouns: C Programming
+
 
 
 <!---
